@@ -5,9 +5,10 @@ describe( 'Login menssage test', () => {
     const mockAlert = jest.fn()
     window.alert = mockAlert
 
+    const mockEmail = 'gfeelixsantos@gmail.com'
     it('Show welcome message to user', () => {
-        loginMensage()
-        expect(mockAlert).toHaveBeenCalledWith('Olá, seja bem vindo !')
+        loginMensage(mockEmail)
+        expect(mockAlert).toHaveBeenCalledWith(`Olá, seja bem vindo ${mockEmail}!` )
     })
 
 })
