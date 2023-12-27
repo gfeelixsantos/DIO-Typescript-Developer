@@ -4,10 +4,11 @@
 
 </div>
 
-#DIO: Formação Fullstack TypeScript Developer
+# DIO: Formação Fullstack TypeScript Developer
 
 Repositório destinado as atividades realizadas durante a formação [TypeScript](https://www.typescriptlang.org/) oferecido pela plataforma da [Digital Innovation One (DIO)](www.dio.me)
 
-###Tecnologias desenvolvidas
+### Tecnologias desenvolvidas
+
 ![](https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png), ![](https://img.icons8.com/?size=48&id=tGvHBPJaKqEd&format=gif), ![](https://img.icons8.com/?size=40&id=t5K2CR8feVdX&format=gif)
 
